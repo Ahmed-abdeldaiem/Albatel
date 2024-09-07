@@ -72,7 +72,7 @@ let settings = {
   return <>
   
 
-<div className={`relative w-full py-2 my-20 bg-[url('partners2.jpg')] bg-fixed bg-cover bg-no-repeat`}>
+<div className={`relative w-full py-2 my-20 bg-[url('https://images.pexels.com/photos/590016/pexels-photo-590016.jpeg?auto=compress&cs=tinysrgb&w=600')] bg-fixed bg-cover bg-no-repeat`}>
  {/* Gradient blue overlay */}
  <div className="absolute inset-0 bg-gradient-to-l from-blue-600  to-blue-600/50 opacity-70 z-10"></div>
 
